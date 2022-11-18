@@ -84,6 +84,9 @@ CORRIENTES MALLA 3
 
 ![M3 3](https://user-images.githubusercontent.com/117534483/202632623-ed07537e-97eb-4c82-b9cf-63273dd83c29.jpg)
 
+<img width="389" alt="Captura de pantalla (1471)" src="https://user-images.githubusercontent.com/117534483/202738916-241cd172-036e-4b4b-a9af-e8bcb5365f04.png">
+
+
 2.5.3.	Simule en el software Thinkercad, el circuito de la figura 2.1, obteniendo los valores de las corrientes de malla. Anote los resultados en la tabla 2.1.
 
 
