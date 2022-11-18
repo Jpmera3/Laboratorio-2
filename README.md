@@ -92,8 +92,6 @@ CORRIENTES MALLA 3
 
 2.5.4.	Compare los valores de la tabla 2.1 y realice sus conclusiones.
 
-<img width="671" alt="Tabla de datos" src="https://user-images.githubusercontent.com/117534483/202652920-61dd2d95-791f-4495-8156-7b1bd7235277.png">
-
 
 
 
