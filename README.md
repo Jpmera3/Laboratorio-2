@@ -87,7 +87,7 @@ CORRIENTES MALLA 3
 2.5.3.	Simule en el software Thinkercad, el circuito de la figura 2.1, obteniendo los valores de las corrientes de malla. Anote los resultados en la tabla 2.1.
 
 
-
+![MICHAEL](https://user-images.githubusercontent.com/107088999/202735379-4f2e6534-1fd4-4a56-9450-1e7b8782e8ae.png)
 
 
 2.5.4.	Compare los valores de la tabla 2.1 y realice sus conclusiones.
