@@ -96,10 +96,16 @@ CORRIENTES MALLA 3
 2.5.4.	Compare los valores de la tabla 2.1 y realice sus conclusiones.
 
 
+![image](https://user-images.githubusercontent.com/107088999/202749022-45f2b710-0aac-43b5-8269-34d3c1ddfca5.png)
 
+
+Al comparar los tres resultados podemos observar que tanto el error en los resultados analticos y simulados tienen un margen muy pequeño de falla pero los resultados experimentales si se puede observar que tiene resultados mucho mas alejados de los que podiamos haber esperado esto se debe a que la fuente de voltaje en la parte experimental fue hecha con dos fuentes de 5 V.
 
 
 CONCLUSIONES
+
+Concluimos que la parte experimental con una fuente de voltaje distinta a la usadas en le parte simulada y analitica hace variar los resultados obtenidos haciendo asi que este tenga un porcentaje de error mucho mas notorio.
+La practica de estas tres formas nos hace ver de una forma mas clara la variacion que puede tener los resultados no siempre dando valores exactos. 
 
 
 BIBLIOGRAFÍA
